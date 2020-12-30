@@ -16,7 +16,7 @@ Multi-view learning (MVL) explores the data extracted from multiple resources. I
 * Cudnn 7
 
 ### File structure:
-There are only one .py file as a demo for MUTAG dataset. The folder NUTAG_dataset contains the pre-arranged WEAVE encoding with different walk numbers per graph and walk length. Slight parameter modification is required to load different settings.
+There are two .py files as a demo for DHA dataset. The loader_class_euc.py file is the data loader. The GVCA.py contains the main code for GVCA.
 
 ```
 .
